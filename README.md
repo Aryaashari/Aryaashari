@@ -32,7 +32,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a>
  <a href="https://www.youtube.com/channel/UCZoJflrz-XUZ3Yu49_P1R-Q" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/Aryaashari/github-profile-readme-generator/master/src/images/icons/yt.svg"
+      src="https://raw.githubusercontent.com/Aryaashari/github-profile-readme-generator/master/yt.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
